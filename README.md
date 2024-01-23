@@ -29,6 +29,6 @@ I should get (20 ) out of 20 on this assignment.
 
 
 ### How long it took me to finish this?
-This took me about 1 hour to finish, had to refresh on my terminology regarding html and css.
+This took me about 1 hour to finish, had to refresh on my terminology regarding html and css..
 
 -----------------------
